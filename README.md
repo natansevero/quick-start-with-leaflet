@@ -1,6 +1,6 @@
 # Quick start with Leaflet
 
-See [Leaflet] (http://leafletjs.com/)
+See [Leaflet](http://leafletjs.com/)
 
 Step for run this example
 ---
